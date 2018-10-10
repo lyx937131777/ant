@@ -1,0 +1,49 @@
+
+Tsquid:S1197Y"8Move the array designator from the variable to the type.(£›Î»ÿÿÿÿÿ
+qsquid:S00116r"TRename this field "next_icon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å‘‡Æùÿÿÿÿ
+Msquid:S2696O"6Make the enclosing method "static" or remove this set.(»ÊÄ‘
+Hsquid:S1481ö")Remove this unused "room" local variable.(¿‡Ğù8å—Ïå,
+lsquid:S00116t"TRename this field "fast_icon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¢úğ
+jsquid:MaximumInheritanceDepth	"<This class has 6 parents which is greater than 5 authorized.(¦¹èÅúÿÿÿÿ
+Wsquid:S1854ö"8Remove this useless assignment to local variable "room".(¿‡Ğù8å—Ïå,
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÂûÒ¯
+Osquid:S1197X"8Move the array designator from the variable to the type.(Ìİ
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ß’³şşÿÿÿÿ
+Lsquid:S1066ì"/Merge this if statement with the enclosing one.(Ñ“‹‰ıÿÿÿÿ
+Nsquid:S2696â"6Make the enclosing method "static" or remove this set.(§±É
+tsquid:S00116}"WRename this field "begin_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ñï¹úÿÿÿÿ
+ssquid:S00116w"VRename this field "play_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¨„ğøÿÿÿÿ
+wsquid:S00115""ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹å°Æøÿÿÿÿ
+Ssquid:S2696€"6Make the enclosing method "static" or remove this set.(…ºÿÚûÿÿÿÿ
+lsquid:S00116s"TRename this field "slow_icon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ø›’
+lsquid:S00116o"TRename this field "play_icon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùàòÌ
+ssquid:S00116q"VRename this field "replay_icon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¨Ó­ÿÿÿÿÿ
+Rsquid:S2696P"6Make the enclosing method "static" or remove this set.(Ôëİıÿÿÿÿ
+Usquid:S2696…"6Make the enclosing method "static" or remove this set.(ñ’è²8­ÈÆå,
+Ysquid:S1161³":Add the "@Override" annotation above this method signature(è­›8­ÈÆå,
+O
+squid:S106ğ"9Replace this use of System.out or System.err by a logger.(­¸ê
+Nsquid:S2696ú"6Make the enclosing method "static" or remove this set.(Ø¸¬º
+bsquid:UselessImportCheck"9Remove this unused import 'java.awt.image.BufferedImage'.(×íĞ‡şÿÿÿÿ
+Zsquid:S2696’"6Make the enclosing method "static" or remove this set.(ˆ›ğÕÿÿÿÿÿ8­ÈÆå,
+osquid:S3776×"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(µë¢úÿÿÿÿ
+osquid:S00116x"WRename this field "pause_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒõØã
+ssquid:S00116|"VRename this field "fast_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ìîùÿÿÿÿ
+V
+squid:S106“"9Replace this use of System.out or System.err by a logger.(­¸ê8­ÈÆå,
+rsquid:S00116~"URename this field "end_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Ï”Ãÿÿÿÿÿ
+wsquid:S00115$"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘’±ıÿÿÿÿ
+ksquid:S00116v"SRename this field "end_icon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íà¡Ş
+V
+squid:S106Ü"9Replace this use of System.out or System.err by a logger.(­¸ê8å—Ïå,
+osquid:S00116y"XRename this field "replay_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øõl
+nsquid:S00116z"VRename this field "next_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÑçñ
+rsquid:S00116p"URename this field "pause_icon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïİğæøÿÿÿÿ
+Nsquid:S2696İ"6Make the enclosing method "static" or remove this set.(Ø¸¬º
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ—ßÉ
+Ssquid:S2696ï"6Make the enclosing method "static" or remove this set.(ˆ›ğÕÿÿÿÿÿ
+nsquid:S00116{"VRename this field "slow_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¡ §
+<squid:S1948"&Make "game" transient or serializable.(Ş¢‹U
+Rsquid:S2696S"6Make the enclosing method "static" or remove this set.(ó€íøÿÿÿÿ
+rsquid:S00116u"URename this field "begin_icon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¿Ğøÿÿÿÿ
+wsquid:S00115#"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¿Ì¢…øÿÿÿÿ
