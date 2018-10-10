@@ -7,3 +7,5 @@ A
 src/Ant/Ant.java,a\a\aadea33cc9485e7e2b95c61ad5803be4afb1dc29
 A
 src/Ant/Room.java,5\6\56a7bf7d5c64f74da90a6e5c65968fc039b92421
+E
+src/Ant/RoomTest.java,6\0\600b3130fcf9980b9b29b930b051ed74a27ab50c
